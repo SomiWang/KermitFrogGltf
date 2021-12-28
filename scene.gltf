@@ -2690,10 +2690,10 @@
   ],
   "images": [
     {
-      "uri": "textures/eyemat_baseColor.png"
+      "uri": "eyemat_baseColor.png"
     },
     {
-      "uri": "textures/bodymat_baseColor.png"
+      "uri": "bodymat_baseColor.png"
     }
   ],
   "materials": [
